@@ -1,8 +1,7 @@
-# Created by : Tochukwu Iroakazi
-# Created on : 25-sep-2017
-# Created for : ICS3U 
-# Daily Assignment - Unit1-04
-# This program displays cicumference 
+# Created by: Saad Shbabir	
+# Created on: Sept 27
+# Created for: ICS3U
+# This program displays the circumference
 
 import ui
 
